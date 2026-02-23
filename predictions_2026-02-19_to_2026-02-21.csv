@@ -1,0 +1,16 @@
+date,home_team,away_team,home_win_prob,away_win_prob,predicted_winner,confidence,model_type
+2026-02-19,Boston Celtics,Los Angeles Lakers,0.5414025,0.4585975,Boston Celtics,0.08280500000000002,tier_based
+2026-02-19,Golden State Warriors,Denver Nuggets,0.5283325,0.4716675,Golden State Warriors,0.056664999999999965,tier_based
+2026-02-19,Miami Heat,Milwaukee Bucks,0.5460375,0.45396250000000005,Miami Heat,0.0920749999999999,tier_based
+2026-02-19,Phoenix Suns,Dallas Mavericks,0.55585,0.44415000000000004,Phoenix Suns,0.11169999999999991,tier_based
+2026-02-19,New York Knicks,Philadelphia 76ers,0.5524275000000001,0.44757249999999993,New York Knicks,0.10485500000000014,tier_based
+2026-02-20,Brooklyn Nets,Atlanta Hawks,0.523875,0.476125,Brooklyn Nets,0.04774999999999996,tier_based
+2026-02-20,Chicago Bulls,Toronto Raptors,0.4982625,0.5017375,Toronto Raptors,0.003475000000000006,tier_based
+2026-02-20,Cleveland Cavaliers,Detroit Pistons,0.5366925,0.4633075,Cleveland Cavaliers,0.07338500000000003,tier_based
+2026-02-20,Indiana Pacers,Charlotte Hornets,0.49863,0.50137,Charlotte Hornets,0.0027399999999999647,tier_based
+2026-02-20,Houston Rockets,San Antonio Spurs,0.5117,0.48829999999999996,Houston Rockets,0.023400000000000087,tier_based
+2026-02-21,Los Angeles Clippers,Sacramento Kings,0.565065,0.43493499999999996,Los Angeles Clippers,0.13013000000000008,tier_based
+2026-02-21,Portland Trail Blazers,Utah Jazz,0.529865,0.47013499999999997,Portland Trail Blazers,0.05973000000000006,tier_based
+2026-02-21,Oklahoma City Thunder,Memphis Grizzlies,0.5466925,0.4533075,Oklahoma City Thunder,0.09338500000000005,tier_based
+2026-02-21,Minnesota Timberwolves,New Orleans Pelicans,0.5358775,0.4641225,Minnesota Timberwolves,0.07175500000000001,tier_based
+2026-02-21,Washington Wizards,Orlando Magic,0.53413,0.46587,Washington Wizards,0.06825999999999999,tier_based
